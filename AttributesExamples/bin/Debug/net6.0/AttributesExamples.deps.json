@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AttributesExamples/1.0.0": {
+        "dependencies": {
+          "LoggingComponent": "1.0.0",
+          "ValidateComponent": "1.0.0"
+        },
+        "runtime": {
+          "AttributesExamples.dll": {}
+        }
+      },
+      "LoggingComponent/1.0.0": {
+        "runtime": {
+          "LoggingComponent.dll": {}
+        }
+      },
+      "ValidateComponent/1.0.0": {
+        "runtime": {
+          "ValidateComponent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AttributesExamples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoggingComponent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ValidateComponent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
